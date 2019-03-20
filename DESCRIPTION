@@ -1,0 +1,10 @@
+Package: simDECOF
+Type: Package
+Title: Simumate DECOF experiments
+Version: 0.1.0
+Author: Julien Godet 
+Maintainer:  Julien Godet <jgodet@unistra.fr>
+Description: Simulate trajectories in rod bacteria like shake
+License: GPL4
+Encoding: UTF-8
+LazyData: true
